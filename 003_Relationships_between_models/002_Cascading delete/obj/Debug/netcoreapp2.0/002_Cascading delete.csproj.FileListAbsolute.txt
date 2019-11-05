@@ -1,0 +1,8 @@
+D:\Entity Framework Core 2.0\3 Lesson\003_Relationships_between_models\002_Cascading delete\bin\Debug\netcoreapp2.0\002_Cascading delete.deps.json
+D:\Entity Framework Core 2.0\3 Lesson\003_Relationships_between_models\002_Cascading delete\bin\Debug\netcoreapp2.0\002_Cascading delete.runtimeconfig.json
+D:\Entity Framework Core 2.0\3 Lesson\003_Relationships_between_models\002_Cascading delete\bin\Debug\netcoreapp2.0\002_Cascading delete.runtimeconfig.dev.json
+D:\Entity Framework Core 2.0\3 Lesson\003_Relationships_between_models\002_Cascading delete\bin\Debug\netcoreapp2.0\002_Cascading delete.dll
+D:\Entity Framework Core 2.0\3 Lesson\003_Relationships_between_models\002_Cascading delete\obj\Debug\netcoreapp2.0\002_Cascading delete.csprojResolveAssemblyReference.cache
+D:\Entity Framework Core 2.0\3 Lesson\003_Relationships_between_models\002_Cascading delete\obj\Debug\netcoreapp2.0\002_Cascading delete.csproj.CoreCompileInputs.cache
+D:\Entity Framework Core 2.0\3 Lesson\003_Relationships_between_models\002_Cascading delete\obj\Debug\netcoreapp2.0\002_Cascading delete.AssemblyInfoInputs.cache
+D:\Entity Framework Core 2.0\3 Lesson\003_Relationships_between_models\002_Cascading delete\obj\Debug\netcoreapp2.0\002_Cascading delete.AssemblyInfo.cs
